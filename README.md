@@ -1,2 +1,2 @@
 # ML-DL_Assignment
-Machine learning using python from scratch to advance including machine learning model deployment
+This repository includes all the assignments of machine learning & deep learning using python. 
